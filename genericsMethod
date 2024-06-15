@@ -1,0 +1,5 @@
+  public <T> void genericsMethod(T data) {
+    System.out.println("。");
+    System.out.println(" " + data);
+  }
+}
